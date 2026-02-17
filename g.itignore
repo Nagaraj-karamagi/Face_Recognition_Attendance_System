@@ -1,0 +1,24 @@
+# Virtual Environments
+.venv/
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Excel files
+attendance.xlsx
+student_data.xlsx
+
+# Model file
+trainer.yml
+
+# Photos dataset
+photos/
+
+# Dlib (if local copy)
+dlib/
+
+# OS files
+.DS_Store
+Thumbs.db
